@@ -1,6 +1,12 @@
 # mini-vueRouter
 
-跟着来，你也可以手撸VueRouter
+仿vue-router@3.2.0 手写源码
+
+
+**vue-router@3.2-source是源文件
+
+
+**手写代码放在src/mini-vue-router
 
 ## Project setup
 ```
